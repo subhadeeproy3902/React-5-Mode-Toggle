@@ -65,7 +65,7 @@ function App() {
             </button>
           ))}
         </div>
-        <div className="max-w-3xl mx-auto px-5 flex flex-col justify-center">
+        <div className="max-w-3xl mx-auto px-5 flex flex-col justify-center items-center">
           <div className="text-center">
             <h5 className="mt-5 text-xl pb-9">
               I was trying Light, Dark, System Mode Toggle
